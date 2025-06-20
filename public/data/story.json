@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "The Watchmaker of Dadar",
+    "imageUrl": "/5.jpeg",
+    "snippet": "Hidden in the lanes of Dadar lies a watch repair shop where time has stood still since the 1940s..."
+  },
+  {
+    "id": 2,
+    "title": "Kala Ghoda’s Forgotten Painter",
+    "imageUrl": "/1.jpeg",
+    "snippet": "Long before the art festivals, a man named Raghu used to paint daily life on the sidewalks of Kala Ghoda..."
+  },
+  {
+    "id": 3,
+    "title": "Marine Drive’s Midnight Poets",
+    "imageUrl": "/2.jpg",
+    "snippet": "Every full moon, young poets gather by the Queen’s Necklace to recite verses born of the city’s soul..."
+  },
+  {
+    "id": 4,
+    "title": "The Irani Café That Never Closed",
+    "imageUrl": "/1.jpeg",
+    "snippet": "A legendary Irani café in Byculla still serves chai the same way it did to freedom fighters in the 1930s..."
+  },
+  {
+    "id": 5,
+    "title": "Sewri’s Salt Pan Spirits",
+    "imageUrl": "/6.jpeg",
+    "snippet": "Workers at the salt pans tell tales of spirits that protect the wetlands from exploitation and greed..."
+  },
+  {
+    "id": 6,
+    "title": "The Train Musician of Churchgate",
+    "imageUrl": "/3.jpeg",
+    "snippet": "If you’ve heard the haunting flute at Churchgate station, you’ve met the man who turned delay into melody..."
+  }
+]

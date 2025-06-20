@@ -1,0 +1,20 @@
+.careduel-banner {
+  background-color: #f5f5f5; /* light gray */
+  border: 2px solid #E91E63; /* coral border */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px;
+  padding: 16px;
+  text-align: center;
+  border-radius: 8px;
+}
+
+.careduel-banner a {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  color: #E91E63;
+  text-decoration: none;
+}
+
+.careduel-banner a:hover {
+  text-decoration: underline;
+}
