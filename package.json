@@ -24,7 +24,8 @@
     "eject": "react-scripts eject",
     "server": "node server.js",
     "dev": "concurrently \"npm run server\" \"npm start\"",
-    "test-api": "node test-api.js"
+    "test-api": "node test-api.js",
+    "test-raffle": "node test-raffle-widget.js"
   },
   "eslintConfig": {
     "extends": [
